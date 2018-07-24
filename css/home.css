@@ -1,0 +1,43 @@
+.header{
+	text-align: center;
+}
+#main{
+	background-color: white;
+	margin: 30px auto;
+
+}
+.output{
+	background-color: white;
+	box-shadow: 0px 1px 1px #000;
+	height: 250px;
+	margin-top: 20px;
+	overflow: scroll;
+	text-align: center;
+}
+
+ul,ol{
+	list-style: none;
+}
+input[type=submit]{
+	width: 100px;
+	box-sizing: border-box;
+	border:4px solid #6459ed;
+	border-radius: 4px;
+}
+textarea{
+	background-color: #dcdcdc;
+	width: 350px;
+}
+body{
+	background-color: #ccc;
+}
+h1{
+	color: green;
+	text-align: center;
+}
+.email{
+	color: blue;
+}
+.sendingpart{
+	background-color: gray;
+}

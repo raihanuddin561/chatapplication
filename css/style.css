@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	outline: 0;
+}
+ul,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background-color: #ccc;
+}
+.header{
+	text-align: center;
+	color: green;
+	padding-top: 20px;
+
+}
+#main{
+	height: 450px;
+	margin-top: 20px;
+	border-radius: 20px;
+	background-color: white;
+	text-align: center;
+}
+#info{
+	padding: 10px;
+}
+button{
+	width: 150px;
+}
